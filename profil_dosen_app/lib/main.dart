@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'second_page.dart';
 import 'Anggota_Kelas.dart'; 
-import 'mata_kuliah.dart'; 
+import 'mata_kuliah.dart';
 import 'kontak_bantuan.dart';
 
 void main() {
