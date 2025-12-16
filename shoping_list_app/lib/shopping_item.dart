@@ -1,4 +1,3 @@
-// File: shopping_item.dart
 
 class ShoppingItem {
   String id;
