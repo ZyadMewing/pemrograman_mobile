@@ -159,7 +159,7 @@ List<ShoppingItem> get _filteredItems {
                   SizedBox(height: 16),
                   // Dropdown untuk Kategori
                   DropdownButtonFormField<String>(
-                    value: _selectedCategory,
+                    initialValue: _selectedCategory,
                     items: _categories.map((String category) {
                       return DropdownMenuItem<String>(
                         value: category,
